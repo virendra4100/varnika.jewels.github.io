@@ -11,4 +11,9 @@ a.nav-link {
                     padding: 0px;
                     margin: 0px;
 }
-  
+ul.nav.nav-tabs {
+    padding-top: 78px;
+}
+.tab-content {
+    padding-bottom: 50px;
+}  
