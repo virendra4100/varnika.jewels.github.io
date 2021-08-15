@@ -280,3 +280,31 @@ width: 38px;
 display: block;
 margin-bottom: 30px;
 }
+.about-section {
+  padding: 50px;
+  background-color: blueviolet;
+  color: white;
+}
+h2{text-align: left;}
+p{text-align: left;}
+h2 {
+  padding-top: 50px;
+}
+.h3, h3 {
+  font-size: 1rem;
+  padding-top: 60px;
+}
+
+
+footer.page-footer.font-small.teal.pt-4 {
+  background: linear-gradient(
+90deg
+, rgba(44,44,129,1) 23%, rgba(121,9,111,1) 75%);
+}
+button.btn.btn-sm.btn-outline-white.my-0 {
+  background-color: #343a40;
+  color: white;
+}
+input.form-control.form-control-sm {
+  margin-right: 50px;
+}

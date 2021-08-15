@@ -40,3 +40,5 @@ var galleryTop = new Swiper('.swiper-container.testimonial', {
 	  }
   });
   
+
+  
